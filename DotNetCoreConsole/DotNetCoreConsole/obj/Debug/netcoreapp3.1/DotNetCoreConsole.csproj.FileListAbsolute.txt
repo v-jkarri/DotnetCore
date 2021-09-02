@@ -1,0 +1,14 @@
+C:\DDrive\Practice\DotNetCoreConsole\DotNetCoreConsole\bin\Debug\netcoreapp3.1\DotNetCoreConsole.exe
+C:\DDrive\Practice\DotNetCoreConsole\DotNetCoreConsole\bin\Debug\netcoreapp3.1\DotNetCoreConsole.deps.json
+C:\DDrive\Practice\DotNetCoreConsole\DotNetCoreConsole\bin\Debug\netcoreapp3.1\DotNetCoreConsole.runtimeconfig.json
+C:\DDrive\Practice\DotNetCoreConsole\DotNetCoreConsole\bin\Debug\netcoreapp3.1\DotNetCoreConsole.runtimeconfig.dev.json
+C:\DDrive\Practice\DotNetCoreConsole\DotNetCoreConsole\bin\Debug\netcoreapp3.1\DotNetCoreConsole.dll
+C:\DDrive\Practice\DotNetCoreConsole\DotNetCoreConsole\bin\Debug\netcoreapp3.1\DotNetCoreConsole.pdb
+C:\DDrive\Practice\DotNetCoreConsole\DotNetCoreConsole\obj\Debug\netcoreapp3.1\DotNetCoreConsole.csproj.AssemblyReference.cache
+C:\DDrive\Practice\DotNetCoreConsole\DotNetCoreConsole\obj\Debug\netcoreapp3.1\DotNetCoreConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\DDrive\Practice\DotNetCoreConsole\DotNetCoreConsole\obj\Debug\netcoreapp3.1\DotNetCoreConsole.AssemblyInfoInputs.cache
+C:\DDrive\Practice\DotNetCoreConsole\DotNetCoreConsole\obj\Debug\netcoreapp3.1\DotNetCoreConsole.AssemblyInfo.cs
+C:\DDrive\Practice\DotNetCoreConsole\DotNetCoreConsole\obj\Debug\netcoreapp3.1\DotNetCoreConsole.csproj.CoreCompileInputs.cache
+C:\DDrive\Practice\DotNetCoreConsole\DotNetCoreConsole\obj\Debug\netcoreapp3.1\DotNetCoreConsole.dll
+C:\DDrive\Practice\DotNetCoreConsole\DotNetCoreConsole\obj\Debug\netcoreapp3.1\DotNetCoreConsole.pdb
+C:\DDrive\Practice\DotNetCoreConsole\DotNetCoreConsole\obj\Debug\netcoreapp3.1\DotNetCoreConsole.genruntimeconfig.cache
