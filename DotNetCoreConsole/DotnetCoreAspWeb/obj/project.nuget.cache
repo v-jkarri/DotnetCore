@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "NNJZPvPlKknwXDgyV12CIrdOwjBvSZoK6qF2rcNEMqMVjUjZGg7njUHqytge0Wkx6yZ3c5eOPNWOuTlPj3FOsw==",
+  "dgSpecHash": "/wPi4BV7XIb8CtaMJ8TE5GIenzzKNW14/wk3ur4QvAXar4c4CBHb4LZ1vd9NWu1WobFOjSYsXqzMmzCFHIa/gA==",
   "success": true,
   "projectFilePath": "C:\\DDrive\\Practice\\DotnetCore\\DotNetCoreConsole\\DotnetCoreAspWeb\\DotnetCoreAspWeb.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\v-jkarri\\.nuget\\packages\\bootstrap\\5.1.0\\bootstrap.5.1.0.nupkg.sha512",
+    "C:\\Users\\v-jkarri\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
