@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e+Sf879GYzmYl8wRprrnLDBMIC2IklbMKIx99SGlFjMv5sad99PgrnwvKrbY00AN61S+Mz+HKzyte9UaetnRpQ==",
+  "dgSpecHash": "oN0wRZEa4dDfsi1aEhR/tsyweX2B8MjTXNQ4wbD+uhIOH7qo/kAHkGQf3srivces2oFnXDyG9IH5RlWhxNXuwA==",
   "success": true,
-  "projectFilePath": "C:\\DDrive\\Practice\\DotNetCoreConsole\\DotNetCoreConsole\\DotNetCoreConsole.csproj",
+  "projectFilePath": "C:\\DDrive\\Practice\\DotnetCore\\DotNetCoreConsole\\DotNetCoreConsole\\DotNetCoreConsole.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

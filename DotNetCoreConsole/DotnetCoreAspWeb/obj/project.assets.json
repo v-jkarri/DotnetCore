@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DDrive\\Practice\\DotnetCore\\DotNetCoreConsole\\DotNetCoreConsole\\DotNetCoreConsole.csproj",
-      "projectName": "DotNetCoreConsole",
-      "projectPath": "C:\\DDrive\\Practice\\DotnetCore\\DotNetCoreConsole\\DotNetCoreConsole\\DotNetCoreConsole.csproj",
+      "projectUniqueName": "C:\\DDrive\\Practice\\DotnetCore\\DotNetCoreConsole\\DotnetCoreAspWeb\\DotnetCoreAspWeb.csproj",
+      "projectName": "DotnetCoreAspWeb",
+      "projectPath": "C:\\DDrive\\Practice\\DotnetCore\\DotNetCoreConsole\\DotnetCoreAspWeb\\DotnetCoreAspWeb.csproj",
       "packagesPath": "C:\\Users\\v-jkarri\\.nuget\\packages\\",
-      "outputPath": "C:\\DDrive\\Practice\\DotnetCore\\DotNetCoreConsole\\DotNetCoreConsole\\obj\\",
+      "outputPath": "C:\\DDrive\\Practice\\DotnetCore\\DotNetCoreConsole\\DotnetCoreAspWeb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\v-jkarri\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -56,6 +56,9 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
